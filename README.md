@@ -3,7 +3,7 @@ DockerTemplate is a template for creating a Docker image for a web application. 
 
 ## Usage
 1. Clone this repository.
-2. Place your web application in the `public` directory.
+2. Place your web application in the `public/` directory.
 3. Finaly run `docker-compose up --build` to start the container.
 
 ## Database
