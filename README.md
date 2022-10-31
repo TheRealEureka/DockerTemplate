@@ -5,6 +5,7 @@ DockerTemplate is a template for creating a Docker image for a web application. 
 1. Clone this repository.
 2. Place your web application in the `public/` directory.
 3. Finaly run `docker-compose up --build` to start the container.
+The web server is up at [http://localhost:8080](http://localhost:8080)
 
 ## Database
 This template uses MariaDB as a database.
